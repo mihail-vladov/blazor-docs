@@ -544,16 +544,6 @@ defaults:
         editable: true
         description_suffix: "Read more in our Blazor Knowledgebase articles."
 
-
-- 
-    scope:
-        path: ""
-    values:
-        announcement: |
-             Check it out: All Day Live Telerik UI for Blazor & .NET Web Products Twitch Session Friday 29 | 8 AM ET. <a href="https://m.twitch.tv/codeitlive/profile" target="_blank">Visit out Twitch Channel</a>!
-
-
-
 #type_links:
 #    "kendo.Class": "/api/javascript/class"
 #    "kendo.data.DataSource": "/api/javascript/data/datasource"
